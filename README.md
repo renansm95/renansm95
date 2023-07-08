@@ -46,7 +46,7 @@
   </div>
 
   🚀 Frameworks & Library 🔝
-  <url https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   
   #### ⚡ Database
   <div>
