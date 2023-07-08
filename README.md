@@ -46,7 +46,7 @@
   </div>
 
   🚀 Frameworks & Library 🔝
-  <url https://camo.githubusercontent.com/84e40cc1b235376f4c7442551fecc84e99bbb6736ef470f7d8e7f9655393e2e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732532306a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465>
+  <url https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white />
   
   #### ⚡ Database
   <div>
