@@ -22,7 +22,7 @@
   <ul>
   ● 💼 Estou em busca da primeira oportunidade profissional no mundo da programação<br>
     <p></p>
-  ● 🎓 Cursando Pós-graduação de Engenharia de Software na PUC e estudo por cursos online também<br>
+  ● 🎓 Pós-graduado em Engenharia de Software na PUC e certificações por cursos online<br>
   </ul>
 </div>
   
