@@ -1,7 +1,7 @@
 
   <div align="center">
           
-  <h2>Olá! Eu sou o Renan Magalhães, estudante e amante da área de Dados! 👋</h2>
+  <h2>Olá! Eu sou o Renan Magalhães, graduando em Ciência de Dados e pós-graduado em Engenharia de Software! 👋</h2>
           
   </div>
 
