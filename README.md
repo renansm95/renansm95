@@ -4,7 +4,7 @@
 
 ### Sobre Mim
 Cientista de Dados e Nutricionista
-Estudante de tecnologia com ênfase em dados, com experiência em visualização de dados (Power BI); em processos ETL; Modelagem de Dados; em criação de dashboards com Data Storytelling (Figma); Ambientes de versionamento (Git); projetos com metodologia Ágil
+Estudante de tecnologia com ênfase em dados, com experiência em visualização de dados (Power BI); em processos ETL; Modelagem de Dados; em criação de dashboards com Data Storytelling (Figma); Ambientes de versionamento (Git); projetos com metodologia Ágil<br>
 "Se temos dados, vamos avaliá-los. Se só temos opiniões, fico com a minha"
 Jim Barksdale
 
