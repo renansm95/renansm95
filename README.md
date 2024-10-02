@@ -4,21 +4,13 @@
   <h2>Olá! Eu sou o Renan Magalhães, graduando em Ciência de Dados e pós-graduado em Engenharia de Software! 👋</h2>
           
   </div>
-
-<div align="center">
-  <a href="https://github.com/renansm95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renansm95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansm95&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-  
-  
-  
+    
   
 
 
 <div align="center">
     
-<h2>Links</h2><br>
+<h2>Links</h2>
   
   ####
   
