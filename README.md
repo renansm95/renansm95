@@ -18,11 +18,7 @@
 
 <div align="center">
     
-<h2>Sobre mim 😎</h2><br>
-  <ul>
-  ● 🎓 Pós-graduado em Engenharia de Software na PUC e certificações por cursos online<br>
-  </ul>
-</div>
+<h2>Links</h2><br>
   
   ####
   
