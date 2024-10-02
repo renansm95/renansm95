@@ -14,7 +14,7 @@ Jim Barksdale
 
 
 ### Projetos em Destaque
-- [Previsão de Preço de Pizzas]([https://github.com/seu-usuario/nome-do-repositorio](https://github.com/renansm95/Preco-da-Pizza)): Modelo de regressão linear para prever o preço de pizzas com base no seu diâmetro.
+- [Previsão de Preço de Pizzas](https://github.com/renansm95/Preco-da-Pizza): Modelo de regressão linear para prever o preço de pizzas com base no seu diâmetro.
 - [Análise de Dados de Vendas](https://github.com/seu-usuario/nome-do-repositorio): Dashboard em Power BI para análise de dados de vendas de uma empresa fictícia.
 
 ### Atualmente Aprendendo
