@@ -3,7 +3,7 @@
 </div>
 
 ### Sobre Mim
-Ciência de Dados
+Ciência de Dados<br><br>
 Estudante de tecnologia com ênfase em dados, com experiência em visualização de dados; em processos ETL; Modelagem de Dados; em criação de dashboards com Data Storytelling; Ambientes de versionamento; projetos com metodologia Ágil<br><br>
 "Se temos dados, vamos avaliá-los. Se só temos opiniões, fico com a minha."
 Jim Barksdale
