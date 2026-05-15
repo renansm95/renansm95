@@ -77,8 +77,8 @@ Profissional de tecnologia com mais de 3 anos de experiência com foco em **Dado
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=renansm95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansm95&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renansm95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renansm95&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
 
