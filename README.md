@@ -15,7 +15,7 @@
 
 ## 👋 Olá! Eu sou o Renan Magalhães
 
-Profissional de tecnologia com mais de 1 ano de experiência com foco em **Dados e Business Intelligence**. Atuo em projetos de análise de dados com **Power BI**, desenvolvimento de análises preditivas em **Python** e projetos em **SQL**. Tenho experiência na criação de dashboards com **Data Storytelling** e utilizo metodologias ágeis para otimizar fluxos de trabalho.
+Profissional de tecnologia com mais de 3 anoS de experiência com foco em **Dados**. Atuo em projetos de análise de dados com, desenvolvimento de análises preditivas em **Python** e projetos em **SQL**. Tenho experiência na criação de dashboards com **Data Storytelling** e utilizo metodologias ágeis para otimizar fluxos de trabalho.
 
 > *"Se temos dados, vamos avaliá-los. Se só temos opiniões, fico com a minha."* — Jim Barksdale
 
@@ -24,9 +24,8 @@ Profissional de tecnologia com mais de 1 ano de experiência com foco em **Dados
 ## 🚀 Sobre mim
 
 - 🎓 Graduando em **Ciência de Dados** e Pós-graduado em **Engenharia de Software**
-- 💼 Atualmente na **Guaraves** — Auxiliar de Dados de Produção
+- 💼 Atualmente na **RB Data Solutions** — Analista de Dados 
 - 📊 Experiência em **ETL**, **Modelagem de Dados** e **Data Storytelling**
-- 🤖 Aprendendo atualmente: **Machine Learning**, **Séries Temporais** e **Automação com Python**
 - 🎯 Objetivo: contribuir com soluções baseadas em dados que gerem impacto real nos negócios
 - 📍 João Pessoa, Paraíba — Brasil
 - 💬 Disponível para oportunidades **CLT home office** e contratos **PJ**
