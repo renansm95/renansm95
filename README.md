@@ -2,10 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Renan%20Magalh%C3%A3es&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Business%20Intelligence%20%7C%20Data%20Analyst&descAlignY=58&descSize=16" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-magalhaes95/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renansm95)
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/renansm95)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.smagalhaes@hotmail.com)
+<a href="https://www.linkedin.com/in/renan-magalhaes95/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:renan.smagalhaes@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=renansm95&color=0e75b6&style=flat&label=Visitantes+do+perfil)
 
@@ -15,7 +17,7 @@
 
 ## 👋 Olá! Eu sou o Renan Magalhães
 
-Profissional de tecnologia com mais de 3 anoS de experiência com foco em **Dados**. Atuo em projetos de análise de dados com, desenvolvimento de análises preditivas em **Python** e projetos em **SQL**. Tenho experiência na criação de dashboards com **Data Storytelling** e utilizo metodologias ágeis para otimizar fluxos de trabalho.
+Profissional de tecnologia com mais de 3 anos de experiência com foco em **Dados**. Atuo em projetos de análise de dados, desenvolvimento de análises preditivas em **Python** e projetos em **SQL**. Tenho experiência na criação de dashboards com **Data Storytelling** e utilizo metodologias ágeis para otimizar fluxos de trabalho.
 
 > *"Se temos dados, vamos avaliá-los. Se só temos opiniões, fico com a minha."* — Jim Barksdale
 
@@ -24,7 +26,7 @@ Profissional de tecnologia com mais de 3 anoS de experiência com foco em **Dado
 ## 🚀 Sobre mim
 
 - 🎓 Graduando em **Ciência de Dados** e Pós-graduado em **Engenharia de Software**
-- 💼 Atualmente na **RB Data Solutions** — Analista de Dados 
+- 💼 Fundador da **RB Data Solutions** — Analista de Dados e Engenheiro de IA
 - 📊 Experiência em **ETL**, **Modelagem de Dados** e **Data Storytelling**
 - 🎯 Objetivo: contribuir com soluções baseadas em dados que gerem impacto real nos negócios
 - 📍 João Pessoa, Paraíba — Brasil
@@ -55,6 +57,7 @@ Profissional de tecnologia com mais de 3 anoS de experiência com foco em **Dado
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
